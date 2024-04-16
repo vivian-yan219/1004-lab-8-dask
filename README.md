@@ -3,4 +3,4 @@
 https://amazon-reviews-2023.github.io/
 
 - Point: Lists will crash the jupyter kernel, but dask bags won't
-- Experiment: Load ratings and convert them to Int
+- Experiment: Load ratings and convert them to int e.g. 4.5 -> 4
