@@ -1,4 +1,4 @@
-# Bag 
+# Bags
 - Run on local=True (cluster takes forever); data source: metadata_Toys_and_Games.jsonl
 https://amazon-reviews-2023.github.io/
 
