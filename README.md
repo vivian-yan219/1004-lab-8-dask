@@ -1,6 +1,4 @@
-# Bags
-- Run on local=True (cluster takes forever); data source: metadata_Toys_and_Games.jsonl
+# Data Source
 https://amazon-reviews-2023.github.io/
 
-- Point: Lists will crash the jupyter kernel, but dask bags won't
-- Experiment: Load ratings and convert them to int e.g. 4.5 -> 4
+- dask_bags: Toys_and_Games meta
